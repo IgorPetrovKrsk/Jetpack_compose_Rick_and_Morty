@@ -2,6 +2,7 @@ Sample project using jetpack compose
 Utilizes Retrofit to get information from rickandmortyapi.com
 Uses Moshi to serialize and deserialize JSON.
 
-![Simple weather city](https://github.com/IgorPetrovKrsk/jetpack_compose_Rick_and_Morty/assets/105622148/8d652163-52e5-40d8-b3ea-e0f7501998be)
-![Simple weather cached cities](https://github.com/IgorPetrovKrsk/jetpack_compose_Rick_and_Morty/assets/105622148/85c01247-a21c-4f1b-aaee-59975ccb54dd)
-![Simple weather search](https://github.com/IgorPetrovKrsk/jetpack_compose_Rick_and_Morty/assets/105622148/87ff2771-9fb9-4e23-bca5-648ef3a351f0)
+![Rick and Morty 1](https://github.com/IgorPetrovKrsk/jetpack_compose_Rick_and_Morty/assets/105622148/66db14a4-b899-4c8e-843a-40a2ac08e1c5)
+![Rick and Morty 2](https://github.com/IgorPetrovKrsk/jetpack_compose_Rick_and_Morty/assets/105622148/edb2047d-9dc6-4270-b8cd-cceafc481e03)
+![Rick and Morty 3](https://github.com/IgorPetrovKrsk/jetpack_compose_Rick_and_Morty/assets/105622148/ecab8d31-4fb2-4847-8211-173ebbaa4e3f)
+
